@@ -1,5 +1,6 @@
 # example interaction with graphs and dijkstras
 
+```scheme
 > (define G (make-graph))
 > ((G 'add-vertex!) 'briggs)
 > ((G 'add-vertex!) 'rat)
@@ -45,3 +46,4 @@
 > ((G3 'add-edge!) 'h 'i 2)
 > (dijkstra G3 'a 'i)
 '((a b d h i) . 10)
+```
