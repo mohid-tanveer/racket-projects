@@ -22,4 +22,4 @@ The objectives of these projects were to:
 
 ## conclusion
 
-I hope that looking through these projects allows for you to see the learned applications of many instances of programming within the language of racket and the personality of the programmer (me) through my attention to detail, organization tendencies, and overall eagerness to learn and adapt. These programs were especially interesting to learn to implement due to it being in a functional language!
+I hope that looking through these projects allows for you to see the learned applications of many instances of programming within the language of racket and the personality of the programmer (me) through my attention to detail, organization tendencies, and overall eagerness to learn and adapt. These programs were especially interesting to learn to implement due to it being in a functional language! More details and documentation on select projects can be found at <https://mohid-tanveer.github.io/#/work>.
