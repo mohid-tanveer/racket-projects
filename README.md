@@ -2,7 +2,7 @@
 
 A compilation of projects written in racket (a functional programming language).
 
-## introduction
+## overview
 
 In this repository I have compiled a list of projects that I worked on in the language racket
 during my 2nd semester of my Sophomore Year at Rhodes College.
@@ -19,7 +19,3 @@ The objectives of these projects were to:
 * to learn to write complex code without the ease and norms I had established within object-oriented programming.
 * demonstrate a mastery of racket syntax and semantics;
 * and to demonstrate an ability to learn and adapt to different aspects of new programming languages and common practices.
-
-## conclusion
-
-I hope that looking through these projects allows for you to see the learned applications of many instances of programming within the language of racket and the personality of the programmer (me) through my attention to detail, organization tendencies, and overall eagerness to learn and adapt. These programs were especially interesting to learn to implement due to it being in a functional language! More details and documentation on select projects can be found at <https://mohid-tanveer.github.io/#/work>.
